@@ -1,2 +1,0 @@
-# Eclipse
-Eclipse - Logic puzzle
